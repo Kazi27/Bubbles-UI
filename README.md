@@ -8,6 +8,9 @@ This repo replicates the effect of champagne bubbles floating upwards with click
 - **Dynamic Design**: The background features an ombre gradient inspired by the DoSomething.org website.
 - **Interactive [SOON]**: Clicking on a bubble zooms in to reveal the text inside, and clicking away resumes the bubble's floating motion.
 
+## Demo
+![bubbles](https://github.com/user-attachments/assets/c69ca268-5937-410c-8057-c65ff536e150)
+
 
 ## Getting Started
 
